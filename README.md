@@ -8,9 +8,8 @@ This module allows you to seamlessly switch between:
 
 Perfect for games that need accurate hit detection during normal gameplay and realistic ragdoll physics when a character is knocked out or dies.
 
-
-https://github.com/user-attachments/assets/642db5e7-5814-4d29-b743-f160b9abbae1
-https://github.com/user-attachments/assets/31af5148-8782-4db5-b4e5-b3d98713bb01
+![Test1](https://github.com/user-attachments/assets/642db5e7-5814-4d29-b743-f160b9abbae1)
+![Test2](https://github.com/user-attachments/assets/31af5148-8782-4db5-b4e5-b3d98713bb01)
 
 
 ## Features
